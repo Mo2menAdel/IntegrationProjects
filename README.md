@@ -1,5 +1,5 @@
 # IntegrationProjects
-Police Mobile Application Integration Project  
+# Police Mobile Application Integration Project  
 The main contribution on the project is prepare environment integrating Huawei AI capabilities with partner’s Mobile APP intelligent analysis to support police officers in their tasks. I Deployed CCE cluster on Huawei Cloud, deploy CICD pipeline using Huawei cloud tool code arts, support partner in development stage with their needs.  
 Skills: API testing, R&S, Linux administration, IT and virtualization, Huawei Cloud, code arts, CCE 
 
